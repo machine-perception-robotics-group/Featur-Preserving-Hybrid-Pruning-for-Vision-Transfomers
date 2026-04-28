@@ -5,18 +5,6 @@
 
 ---
 
-## 環境
-
-- Python
-- PyTorch
-- torchvision
-- timm
-- tensorboardX
-- six
-- fvcore
-
----
-
 ## データセット
 
 - CIFAR-100
